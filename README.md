@@ -14,8 +14,8 @@
 | 353 | [Design Snake Game][p353]                                           |   :lock:      | Medium      |
 | 352 | [Data Stream as Disjoint Intervals][p352]                           |               | Hard        |
 | 351 | [Android Unlock Patterns ][p351]                                    |   :lock:      | Medium      |
-| 350 | [Intersection of Two Arrays II][p350]                               |               | Easy        |
-| 349 | [Intersection of Two Arrays][p349]                                  |               | Easy        |
+| 350 | [Intersection of Two Arrays II][p350]                               | [Ruby][s350]  | Easy        |
+| 349 | [Intersection of Two Arrays][p349]                                  | [Ruby][s349]  | Easy        |
 | 348 | [Design Tic-Tac-Toe][p348]                                          |   :lock:      | Medium      |
 | 347 | [Top K Frequent Elements][p347]                                     | [Ruby][s347]  | Medium      |
 | 346 | [Moving Average from Data Stream][p346]                             |   :lock:      | Easy        |
@@ -730,6 +730,8 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s350]:./algorithms/intersection_of_two_arrays_ii.rb
+[s349]:./algorithms/intersection_of_two_arrays.rb
 [s347]:./algorithms/top_k_frequent_elements.rb
 [s345]:./algorithms/reverse_vowels_of_a_string.rb
 [s344]:./algorithms/reverse_string.rb
