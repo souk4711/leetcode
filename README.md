@@ -3,6 +3,19 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 361 | [Bomb Enemy][p361]                                                  |   :lock:      | Medium      |
+| 360 | [Sort Transformed Array][p360]                                      |   :lock:      | Medium      |
+| 359 | [Logger Rate Limiter][p359]                                         |   :lock:      | Easy        |
+| 358 | [Rearrange String k Distance Apart][p358]                           |   :lock:      | Hard        |
+| 357 | [Count Numbers with Unique Digits][p357]                            |               | Medium      |
+| 356 | [Line Reflection][p356]                                             |   :lock:      | Medium      |
+| 355 | [Design Twitter][p355]                                              |               | Medium      |
+| 354 | [Russian Doll Envelopes][p354]                                      |               | Hard        |
+| 353 | [Design Snake Game][p353]                                           |   :lock:      | Medium      |
+| 352 | [Data Stream as Disjoint Intervals][p352]                           |               | Hard        |
+| 351 | [Android Unlock Patterns ][p351]                                    |   :lock:      | Medium      |
+| 350 | [Intersection of Two Arrays II][p350]                               |               | Easy        |
+| 349 | [Intersection of Two Arrays][p349]                                  |               | Easy        |
 | 348 | [Design Tic-Tac-Toe][p348]                                          |   :lock:      | Medium      |
 | 347 | [Top K Frequent Elements][p347]                                     | [Ruby][s347]  | Medium      |
 | 346 | [Moving Average from Data Stream][p346]                             |   :lock:      | Easy        |
@@ -355,6 +368,19 @@
 
 
 
+[p361]:https://leetcode.com/problems/bomb-enemy/
+[p360]:https://leetcode.com/problems/sort-transformed-array/
+[p359]:https://leetcode.com/problems/logger-rate-limiter/
+[p358]:https://leetcode.com/problems/rearrange-string-k-distance-apart/
+[p357]:https://leetcode.com/problems/count-numbers-with-unique-digits/
+[p356]:https://leetcode.com/problems/line-reflection/
+[p355]:https://leetcode.com/problems/design-twitter/
+[p354]:https://leetcode.com/problems/russian-doll-envelopes/
+[p353]:https://leetcode.com/problems/design-snake-game/
+[p352]:https://leetcode.com/problems/data-stream-as-disjoint-intervals/
+[p351]:https://leetcode.com/problems/android-unlock-patterns/
+[p350]:https://leetcode.com/problems/intersection-of-two-arrays-ii/
+[p349]:https://leetcode.com/problems/intersection-of-two-arrays/
 [p348]:https://leetcode.com/problems/design-tic-tac-toe/
 [p347]:https://leetcode.com/problems/top-k-frequent-elements/
 [p346]:https://leetcode.com/problems/moving-average-from-data-stream/
