@@ -9,10 +9,10 @@
 | 358 | [Rearrange String k Distance Apart][p358]                           |   :lock:      | Hard        |
 | 357 | [Count Numbers with Unique Digits][p357]                            |               | Medium      |
 | 356 | [Line Reflection][p356]                                             |   :lock:      | Medium      |
-| 355 | [Design Twitter][p355]                                              |               | Medium      |
+| 355 | [Design Twitter][p355]                                              |   :soon:      | Medium      |
 | 354 | [Russian Doll Envelopes][p354]                                      |               | Hard        |
 | 353 | [Design Snake Game][p353]                                           |   :lock:      | Medium      |
-| 352 | [Data Stream as Disjoint Intervals][p352]                           |               | Hard        |
+| 352 | [Data Stream as Disjoint Intervals][p352]                           |   :soon:      | Hard        |
 | 351 | [Android Unlock Patterns ][p351]                                    |   :lock:      | Medium      |
 | 350 | [Intersection of Two Arrays II][p350]                               | [Ruby][s350]  | Easy        |
 | 349 | [Intersection of Two Arrays][p349]                                  | [Ruby][s349]  | Easy        |
