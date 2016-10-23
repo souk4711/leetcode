@@ -16,7 +16,7 @@
 | 415 | [Add Strings][p415]                                                 |               | Easy        |
 | 414 | [Third Maximum Number][p414]                                        |               | Easy        |
 | 413 | [Arithmetic Slices][p413]                                           |               | Medium      |
-| 412 | [Fizz Buzz][p412]                                                   |               | Easy        |
+| 412 | [Fizz Buzz][p412]                                                   | [Ruby][s412]  | Easy        |
 | 411 | [Minimum Unique Word Abbreviation][p411]                            |   :lock:      | Hard        |
 | 410 | [Split Array Largest Sum][p410]                                     |               | Hard        |
 | 409 | [Longest Palindrome][p409]                                          |               | Easy        |
@@ -858,6 +858,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s412]:./algorithms/fizz_buzz.rb
 [s393]:./algorithms/utf_8_validation.rb
 [s385]:./algorithms/mini_parser.rb
 [s383]:./algorithms/ransom_note.rb
