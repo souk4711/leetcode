@@ -42,9 +42,9 @@
 | 389 | [Find the Difference][p389]                                         |               | Easy        |
 | 388 | [Longest Absolute File Path][p388]                                  |               | Medium      |
 | 387 | [First Unique Character in a String][p387]                          |               | Easy        |
-| 386 | [Lexicographical Numbers][p386]                                     |               | Medium      |
+| 386 | [Lexicographical Numbers][p386]                                     |   :soon:      | Medium      |
 | 385 | [Mini Parser][p385]                                                 | [Ruby][s385]  | Medium      |
-| 384 | [Shuffle an Array][p384]                                            |               | Medium      |
+| 384 | [Shuffle an Array][p384]                                            |   :soon:      | Medium      |
 | 383 | [Ransom Note][p383]                                                 | [Ruby][s383]  | Easy        |
 | 382 | [Linked List Random Node][p382]                                     |               | Medium      |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed][p381]           |               | Hard        |
