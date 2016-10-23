@@ -35,7 +35,7 @@
 | 396 | [Rotate Function][p396]                                             |               | Easy        |
 | 395 | [Longest Substring with At Least K Repeating Characters][p395]      |               | Medium      |
 | 394 | [Decode String][p394]                                               |               | Medium      |
-| 393 | [UTF-8 Validation][p393]                                            |               | Medium      |
+| 393 | [UTF-8 Validation][p393]                                            | [Ruby][s393]  | Medium      |
 | 392 | [Is Subsequence][p392]                                              |               | Medium      |
 | 391 | [Perfect Rectangle][p391]                                           |               | Hard        |
 | 390 | [Elimination Game][p390]                                            |               | Medium      |
@@ -858,6 +858,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s393]:./algorithms/utf_8_validation.rb
 [s350]:./algorithms/intersection_of_two_arrays_ii.rb
 [s349]:./algorithms/intersection_of_two_arrays.rb
 [s347]:./algorithms/top_k_frequent_elements.rb
