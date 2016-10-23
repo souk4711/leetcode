@@ -43,7 +43,7 @@
 | 388 | [Longest Absolute File Path][p388]                                  |               | Medium      |
 | 387 | [First Unique Character in a String][p387]                          |               | Easy        |
 | 386 | [Lexicographical Numbers][p386]                                     |               | Medium      |
-| 385 | [Mini Parser][p385]                                                 |               | Medium      |
+| 385 | [Mini Parser][p385]                                                 | [Ruby][s385]  | Medium      |
 | 384 | [Shuffle an Array][p384]                                            |               | Medium      |
 | 383 | [Ransom Note][p383]                                                 |               | Easy        |
 | 382 | [Linked List Random Node][p382]                                     |               | Medium      |
@@ -859,6 +859,7 @@
 [p1]:https://leetcode.com/problems/two-sum/
 
 [s393]:./algorithms/utf_8_validation.rb
+[s385]:./algorithms/mini_parser.rb
 [s350]:./algorithms/intersection_of_two_arrays_ii.rb
 [s349]:./algorithms/intersection_of_two_arrays.rb
 [s347]:./algorithms/top_k_frequent_elements.rb
