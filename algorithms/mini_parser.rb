@@ -80,7 +80,7 @@ private def _deserialize_(s, cursor)
 end
 
 private def _deserialize_integer_(s, cursor)
-  beginning, ending  = cursor, s.size
+  beginning, ending = cursor, s.size
   integer = NestedInteger.new
 
   cursor += 1
