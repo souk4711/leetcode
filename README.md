@@ -3,6 +3,70 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 425 | [Word Squares][p425]                                                |   :lock:      | Hard        |
+| 424 | [Longest Repeating Character Replacement][p424]                     |               | Medium      |
+| 423 | [Reconstruct Original Digits from English][p423]                    |               | Medium      |
+| 422 | [Valid Word Square][p422]                                           |   :lock:      | Easy        |
+| 421 | [Maximum XOR of Two Numbers in an Array][p421]                      |               | Medium      |
+| 420 | [Strong Password Checker][p420]                                     |               | Hard        |
+| 419 | [Battleships in a Board][p419]                                      |               | Medium      |
+| 418 | [Sentence Screen Fitting][p418]                                     |   :lock:      | Medium      |
+| 417 | [Pacific Atlantic Water Flow][p417]                                 |               | Medium      |
+| 416 | [Partition Equal Subset Sum][p416]                                  |               | Medium      |
+| 415 | [Add Strings][p415]                                                 |               | Easy        |
+| 414 | [Third Maximum Number][p414]                                        |               | Easy        |
+| 413 | [Arithmetic Slices][p413]                                           |               | Medium      |
+| 412 | [Fizz Buzz][p412]                                                   |               | Easy        |
+| 411 | [Minimum Unique Word Abbreviation][p411]                            |   :lock:      | Hard        |
+| 410 | [Split Array Largest Sum][p410]                                     |               | Hard        |
+| 409 | [Longest Palindrome][p409]                                          |               | Easy        |
+| 408 | [Valid Word Abbreviation][p408]                                     |   :lock:      | Easy        |
+| 407 | [Trapping Rain Water II][p407]                                      |               | Hard        |
+| 406 | [Queue Reconstruction by Height][p406]                              |               | Medium      |
+| 405 | [Convert a Number to Hexadecimal][p405]                             |               | Easy        |
+| 404 | [Sum of Left Leaves][p404]                                          |               | Easy        |
+| 403 | [Frog Jump][p403]                                                   |               | Hard        |
+| 402 | [Remove K Digits][p402]                                             |               | Medium      |
+| 401 | [Binary Watch][p401]                                                |               | Easy        |
+| 400 | [Nth Digit][p400]                                                   |               | Easy        |
+| 399 | [Evaluate Division][p399]                                           |               | Medium      |
+| 398 | [Random Pick Index][p398]                                           |               | Medium      |
+| 397 | [Integer Replacement][p397]                                         |               | Medium      |
+| 396 | [Rotate Function][p396]                                             |               | Easy        |
+| 395 | [Longest Substring with At Least K Repeating Characters][p395]      |               | Medium      |
+| 394 | [Decode String][p394]                                               |               | Medium      |
+| 393 | [UTF-8 Validation][p393]                                            |               | Medium      |
+| 392 | [Is Subsequence][p392]                                              |               | Medium      |
+| 391 | [Perfect Rectangle][p391]                                           |               | Hard        |
+| 390 | [Elimination Game][p390]                                            |               | Medium      |
+| 389 | [Find the Difference][p389]                                         |               | Easy        |
+| 388 | [Longest Absolute File Path][p388]                                  |               | Medium      |
+| 387 | [First Unique Character in a String][p387]                          |               | Easy        |
+| 386 | [Lexicographical Numbers][p386]                                     |               | Medium      |
+| 385 | [Mini Parser][p385]                                                 |               | Medium      |
+| 384 | [Shuffle an Array][p384]                                            |               | Medium      |
+| 383 | [Ransom Note][p383]                                                 |               | Easy        |
+| 382 | [Linked List Random Node][p382]                                     |               | Medium      |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed][p381]           |               | Hard        |
+| 380 | [Insert Delete GetRandom O(1)][p380]                                |               | Hard        |
+| 379 | [Design Phone Directory][p379]                                      |   :lock:      | Medium      |
+| 378 | [Kth Smallest Element in a Sorted Matrix][p378]                     |               | Medium      |
+| 377 | [Combination Sum IV][p377]                                          |               | Medium      |
+| 376 | [Wiggle Subsequence][p376]                                          |               | Medium      |
+| 375 | [Guess Number Higher or Lower II][p375]                             |               | Medium      |
+| 374 | [Guess Number Higher or Lower][p374]                                |               | Easy        |
+| 373 | [Find K Pairs with Smallest Sums][p373]                             |               | Medium      |
+| 372 | [Super Pow][p372]                                                   |               | Medium      |
+| 371 | [Sum of Two Integers][p371]                                         |               | Easy        |
+| 370 | [Range Addition][p370]                                              |   :lock:      | Medium      |
+| 369 | [Plus One Linked List][p369]                                        |   :lock:      | Medium      |
+| 368 | [Largest Divisible Subset][p368]                                    |               | Medium      |
+| 367 | [Valid Perfect Square][p367]                                        |               | Medium      |
+| 366 | [Find Leaves of Binary Tree][p366]                                  |   :lock:      | Medium      |
+| 365 | [Water and Jug Problem][p365]                                       |               | Medium      |
+| 364 | [Nested List Weight Sum II][p364]                                   |   :lock:      | Medium      |
+| 363 | [Max Sum of Rectangle No Larger Than K][p363]                       |               | Hard        |
+| 362 | [Design Hit Counter][p362]                                          |   :lock:      | Medium      |
 | 361 | [Bomb Enemy][p361]                                                  |   :lock:      | Medium      |
 | 360 | [Sort Transformed Array][p360]                                      |   :lock:      | Medium      |
 | 359 | [Logger Rate Limiter][p359]                                         |   :lock:      | Easy        |
@@ -368,6 +432,70 @@
 
 
 
+[p425]:https://leetcode.com/problems/word-squares
+[p424]:https://leetcode.com/problems/longest-repeating-character-replacement
+[p423]:https://leetcode.com/problems/reconstruct-original-digits-from-english
+[p422]:https://leetcode.com/problems/valid-word-square
+[p421]:https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array
+[p420]:https://leetcode.com/problems/strong-password-checker
+[p419]:https://leetcode.com/problems/battleships-in-a-board
+[p418]:https://leetcode.com/problems/sentence-screen-fitting
+[p417]:https://leetcode.com/problems/pacific-atlantic-water-flow
+[p416]:https://leetcode.com/problems/partition-equal-subset-sum
+[p415]:https://leetcode.com/problems/add-strings
+[p414]:https://leetcode.com/problems/third-maximum-number
+[p413]:https://leetcode.com/problems/arithmetic-slices
+[p412]:https://leetcode.com/problems/fizz-buzz
+[p411]:https://leetcode.com/problems/minimum-unique-word-abbreviation
+[p410]:https://leetcode.com/problems/split-array-largest-sum
+[p409]:https://leetcode.com/problems/longest-palindrome
+[p408]:https://leetcode.com/problems/valid-word-abbreviation
+[p407]:https://leetcode.com/problems/trapping-rain-water-ii
+[p406]:https://leetcode.com/problems/queue-reconstruction-by-height
+[p405]:https://leetcode.com/problems/convert-a-number-to-hexadecimal
+[p404]:https://leetcode.com/problems/sum-of-left-leaves
+[p403]:https://leetcode.com/problems/frog-jump
+[p402]:https://leetcode.com/problems/remove-k-digits
+[p401]:https://leetcode.com/problems/binary-watch
+[p400]:https://leetcode.com/problems/nth-digit
+[p399]:https://leetcode.com/problems/evaluate-division
+[p398]:https://leetcode.com/problems/random-pick-index
+[p397]:https://leetcode.com/problems/integer-replacement
+[p396]:https://leetcode.com/problems/rotate-function
+[p395]:https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+[p394]:https://leetcode.com/problems/decode-string
+[p393]:https://leetcode.com/problems/utf-8-validation
+[p392]:https://leetcode.com/problems/is-subsequence
+[p391]:https://leetcode.com/problems/perfect-rectangle
+[p390]:https://leetcode.com/problems/elimination-game
+[p389]:https://leetcode.com/problems/find-the-difference
+[p388]:https://leetcode.com/problems/longest-absolute-file-path
+[p387]:https://leetcode.com/problems/first-unique-character-in-a-string
+[p386]:https://leetcode.com/problems/lexicographical-numbers
+[p385]:https://leetcode.com/problems/mini-parser
+[p384]:https://leetcode.com/problems/shuffle-an-array
+[p383]:https://leetcode.com/problems/ransom-note
+[p382]:https://leetcode.com/problems/linked-list-random-node
+[p381]:https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+[p380]:https://leetcode.com/problems/insert-delete-getrandom-o1
+[p379]:https://leetcode.com/problems/design-phone-directory
+[p378]:https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+[p377]:https://leetcode.com/problems/combination-sum-iv
+[p376]:https://leetcode.com/problems/wiggle-subsequence
+[p375]:https://leetcode.com/problems/guess-number-higher-or-lower-ii
+[p374]:https://leetcode.com/problems/guess-number-higher-or-lower
+[p373]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums
+[p372]:https://leetcode.com/problems/super-pow
+[p371]:https://leetcode.com/problems/sum-of-two-integers
+[p370]:https://leetcode.com/problems/range-addition
+[p369]:https://leetcode.com/problems/plus-one-linked-list
+[p368]:https://leetcode.com/problems/largest-divisible-subset
+[p367]:https://leetcode.com/problems/valid-perfect-square
+[p366]:https://leetcode.com/problems/find-leaves-of-binary-tree
+[p365]:https://leetcode.com/problems/water-and-jug-problem
+[p364]:https://leetcode.com/problems/nested-list-weight-sum-ii
+[p363]:https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k
+[p362]:https://leetcode.com/problems/design-hit-counter
 [p361]:https://leetcode.com/problems/bomb-enemy/
 [p360]:https://leetcode.com/problems/sort-transformed-array/
 [p359]:https://leetcode.com/problems/logger-rate-limiter/
