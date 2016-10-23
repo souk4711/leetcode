@@ -45,7 +45,7 @@
 | 386 | [Lexicographical Numbers][p386]                                     |               | Medium      |
 | 385 | [Mini Parser][p385]                                                 | [Ruby][s385]  | Medium      |
 | 384 | [Shuffle an Array][p384]                                            |               | Medium      |
-| 383 | [Ransom Note][p383]                                                 |               | Easy        |
+| 383 | [Ransom Note][p383]                                                 | [Ruby][s383]  | Easy        |
 | 382 | [Linked List Random Node][p382]                                     |               | Medium      |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed][p381]           |               | Hard        |
 | 380 | [Insert Delete GetRandom O(1)][p380]                                |               | Hard        |
@@ -860,6 +860,7 @@
 
 [s393]:./algorithms/utf_8_validation.rb
 [s385]:./algorithms/mini_parser.rb
+[s383]:./algorithms/ransom_note.rb
 [s350]:./algorithms/intersection_of_two_arrays_ii.rb
 [s349]:./algorithms/intersection_of_two_arrays.rb
 [s347]:./algorithms/top_k_frequent_elements.rb
