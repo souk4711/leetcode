@@ -34,7 +34,7 @@
 | 397 | [Integer Replacement][p397]                                         |               | Medium      |
 | 396 | [Rotate Function][p396]                                             |               | Easy        |
 | 395 | [Longest Substring with At Least K Repeating Characters][p395]      |               | Medium      |
-| 394 | [Decode String][p394]                                               |               | Medium      |
+| 394 | [Decode String][p394]                                               | [Ruby][s394]  | Medium      |
 | 393 | [UTF-8 Validation][p393]                                            | [Ruby][s393]  | Medium      |
 | 392 | [Is Subsequence][p392]                                              |               | Medium      |
 | 391 | [Perfect Rectangle][p391]                                           |               | Hard        |
@@ -859,6 +859,7 @@
 [p1]:https://leetcode.com/problems/two-sum/
 
 [s412]:./algorithms/fizz_buzz.rb
+[s394]:./algorithms/decode_string.rb
 [s393]:./algorithms/utf_8_validation.rb
 [s385]:./algorithms/mini_parser.rb
 [s383]:./algorithms/ransom_note.rb
