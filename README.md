@@ -3,24 +3,24 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
-| 425 | [Word Squares][p425]                                                |   :lock:      | Hard        |
+| 425 | [Word Squares][p425]                                                |    :lock:     | Hard        |
 | 424 | [Longest Repeating Character Replacement][p424]                     |               | Medium      |
 | 423 | [Reconstruct Original Digits from English][p423]                    |               | Medium      |
-| 422 | [Valid Word Square][p422]                                           |   :lock:      | Easy        |
+| 422 | [Valid Word Square][p422]                                           |    :lock:     | Easy        |
 | 421 | [Maximum XOR of Two Numbers in an Array][p421]                      |               | Medium      |
 | 420 | [Strong Password Checker][p420]                                     |               | Hard        |
 | 419 | [Battleships in a Board][p419]                                      |               | Medium      |
-| 418 | [Sentence Screen Fitting][p418]                                     |   :lock:      | Medium      |
+| 418 | [Sentence Screen Fitting][p418]                                     |    :lock:     | Medium      |
 | 417 | [Pacific Atlantic Water Flow][p417]                                 |               | Medium      |
 | 416 | [Partition Equal Subset Sum][p416]                                  |               | Medium      |
 | 415 | [Add Strings][p415]                                                 |               | Easy        |
 | 414 | [Third Maximum Number][p414]                                        |               | Easy        |
 | 413 | [Arithmetic Slices][p413]                                           |               | Medium      |
 | 412 | [Fizz Buzz][p412]                                                   | [Ruby][s412]  | Easy        |
-| 411 | [Minimum Unique Word Abbreviation][p411]                            |   :lock:      | Hard        |
+| 411 | [Minimum Unique Word Abbreviation][p411]                            |    :lock:     | Hard        |
 | 410 | [Split Array Largest Sum][p410]                                     |               | Hard        |
 | 409 | [Longest Palindrome][p409]                                          |               | Easy        |
-| 408 | [Valid Word Abbreviation][p408]                                     |   :lock:      | Easy        |
+| 408 | [Valid Word Abbreviation][p408]                                     |    :lock:     | Easy        |
 | 407 | [Trapping Rain Water II][p407]                                      |               | Hard        |
 | 406 | [Queue Reconstruction by Height][p406]                              |               | Medium      |
 | 405 | [Convert a Number to Hexadecimal][p405]                             |               | Easy        |
@@ -30,7 +30,7 @@
 | 401 | [Binary Watch][p401]                                                |               | Easy        |
 | 400 | [Nth Digit][p400]                                                   |               | Easy        |
 | 399 | [Evaluate Division][p399]                                           |               | Medium      |
-| 398 | [Random Pick Index][p398]                                           |               | Medium      |
+| 398 | [Random Pick Index][p398]                                           |    :soon:     | Medium      |
 | 397 | [Integer Replacement][p397]                                         |               | Medium      |
 | 396 | [Rotate Function][p396]                                             |               | Easy        |
 | 395 | [Longest Substring with At Least K Repeating Characters][p395]      |               | Medium      |
@@ -42,14 +42,14 @@
 | 389 | [Find the Difference][p389]                                         |               | Easy        |
 | 388 | [Longest Absolute File Path][p388]                                  |               | Medium      |
 | 387 | [First Unique Character in a String][p387]                          |               | Easy        |
-| 386 | [Lexicographical Numbers][p386]                                     |   :soon:      | Medium      |
+| 386 | [Lexicographical Numbers][p386]                                     |    :soon:     | Medium      |
 | 385 | [Mini Parser][p385]                                                 | [Ruby][s385]  | Medium      |
-| 384 | [Shuffle an Array][p384]                                            |   :soon:      | Medium      |
+| 384 | [Shuffle an Array][p384]                                            |    :soon:     | Medium      |
 | 383 | [Ransom Note][p383]                                                 | [Ruby][s383]  | Easy        |
-| 382 | [Linked List Random Node][p382]                                     |               | Medium      |
-| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed][p381]           |               | Hard        |
-| 380 | [Insert Delete GetRandom O(1)][p380]                                |               | Hard        |
-| 379 | [Design Phone Directory][p379]                                      |   :lock:      | Medium      |
+| 382 | [Linked List Random Node][p382]                                     |    :soon:     | Medium      |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed][p381]           |    :soon:     | Hard        |
+| 380 | [Insert Delete GetRandom O(1)][p380]                                |    :soon:     | Hard        |
+| 379 | [Design Phone Directory][p379]                                      |    :lock:     | Medium      |
 | 378 | [Kth Smallest Element in a Sorted Matrix][p378]                     |               | Medium      |
 | 377 | [Combination Sum IV][p377]                                          |               | Medium      |
 | 376 | [Wiggle Subsequence][p376]                                          |               | Medium      |
@@ -58,44 +58,44 @@
 | 373 | [Find K Pairs with Smallest Sums][p373]                             |               | Medium      |
 | 372 | [Super Pow][p372]                                                   |               | Medium      |
 | 371 | [Sum of Two Integers][p371]                                         |               | Easy        |
-| 370 | [Range Addition][p370]                                              |   :lock:      | Medium      |
-| 369 | [Plus One Linked List][p369]                                        |   :lock:      | Medium      |
+| 370 | [Range Addition][p370]                                              |    :lock:     | Medium      |
+| 369 | [Plus One Linked List][p369]                                        |    :lock:     | Medium      |
 | 368 | [Largest Divisible Subset][p368]                                    |               | Medium      |
 | 367 | [Valid Perfect Square][p367]                                        |               | Medium      |
-| 366 | [Find Leaves of Binary Tree][p366]                                  |   :lock:      | Medium      |
+| 366 | [Find Leaves of Binary Tree][p366]                                  |    :lock:     | Medium      |
 | 365 | [Water and Jug Problem][p365]                                       |               | Medium      |
-| 364 | [Nested List Weight Sum II][p364]                                   |   :lock:      | Medium      |
+| 364 | [Nested List Weight Sum II][p364]                                   |    :lock:     | Medium      |
 | 363 | [Max Sum of Rectangle No Larger Than K][p363]                       |               | Hard        |
-| 362 | [Design Hit Counter][p362]                                          |   :lock:      | Medium      |
-| 361 | [Bomb Enemy][p361]                                                  |   :lock:      | Medium      |
-| 360 | [Sort Transformed Array][p360]                                      |   :lock:      | Medium      |
-| 359 | [Logger Rate Limiter][p359]                                         |   :lock:      | Easy        |
-| 358 | [Rearrange String k Distance Apart][p358]                           |   :lock:      | Hard        |
+| 362 | [Design Hit Counter][p362]                                          |    :lock:     | Medium      |
+| 361 | [Bomb Enemy][p361]                                                  |    :lock:     | Medium      |
+| 360 | [Sort Transformed Array][p360]                                      |    :lock:     | Medium      |
+| 359 | [Logger Rate Limiter][p359]                                         |    :lock:     | Easy        |
+| 358 | [Rearrange String k Distance Apart][p358]                           |    :lock:     | Hard        |
 | 357 | [Count Numbers with Unique Digits][p357]                            |               | Medium      |
-| 356 | [Line Reflection][p356]                                             |   :lock:      | Medium      |
-| 355 | [Design Twitter][p355]                                              |   :soon:      | Medium      |
+| 356 | [Line Reflection][p356]                                             |    :lock:     | Medium      |
+| 355 | [Design Twitter][p355]                                              |    :soon:     | Medium      |
 | 354 | [Russian Doll Envelopes][p354]                                      |               | Hard        |
-| 353 | [Design Snake Game][p353]                                           |   :lock:      | Medium      |
-| 352 | [Data Stream as Disjoint Intervals][p352]                           |   :soon:      | Hard        |
-| 351 | [Android Unlock Patterns ][p351]                                    |   :lock:      | Medium      |
+| 353 | [Design Snake Game][p353]                                           |    :lock:     | Medium      |
+| 352 | [Data Stream as Disjoint Intervals][p352]                           |    :soon:     | Hard        |
+| 351 | [Android Unlock Patterns ][p351]                                    |    :lock:     | Medium      |
 | 350 | [Intersection of Two Arrays II][p350]                               | [Ruby][s350]  | Easy        |
 | 349 | [Intersection of Two Arrays][p349]                                  | [Ruby][s349]  | Easy        |
-| 348 | [Design Tic-Tac-Toe][p348]                                          |   :lock:      | Medium      |
+| 348 | [Design Tic-Tac-Toe][p348]                                          |    :lock:     | Medium      |
 | 347 | [Top K Frequent Elements][p347]                                     | [Ruby][s347]  | Medium      |
-| 346 | [Moving Average from Data Stream][p346]                             |   :lock:      | Easy        |
+| 346 | [Moving Average from Data Stream][p346]                             |    :lock:     | Easy        |
 | 345 | [Reverse Vowels of a String][p345]                                  | [Ruby][s345]  | Easy        |
 | 344 | [Reverse String][p344]                                              | [Ruby][s344]  | Easy        |
 | 343 | [Integer Break][p343]                                               | [Ruby][s343]  | Medium      |
 | 342 | [Power of Four][p342]                                               | [Ruby][s342]  | Easy        |
-| 341 | [Flatten Nested List Iterator][p341]                                |   :lock:      | Medium      |
-| 340 | [Longest Substring with At Most K Distinct Characters][p340]        |   :lock:      | Hard        |
-| 339 | [Nested List Weight Sum][p339]                                      |   :lock:      | Easy        |
+| 341 | [Flatten Nested List Iterator][p341]                                |    :lock:     | Medium      |
+| 340 | [Longest Substring with At Most K Distinct Characters][p340]        |    :lock:     | Hard        |
+| 339 | [Nested List Weight Sum][p339]                                      |    :lock:     | Easy        |
 | 338 | [Counting Bits][p338]                                               | [Ruby][s338]  | Medium      |
 | 337 | [House Robber III][p337]                                            | [Ruby][s337]  | Medium      |
 | 336 | [Palindrome Pairs][p336]                                            | [Ruby][s336]  | Hard        |
 | 335 | [Self Crossing][p335]                                               | [Ruby][s335]  | Medium      |
 | 334 | [Increasing Triplet Subsequence][p334]                              | [Ruby][s334]  | Medium      |
-| 333 | [Largest BST Subtree][p333]                                         |   :lock:      | Medium      |
+| 333 | [Largest BST Subtree][p333]                                         |    :lock:     | Medium      |
 | 332 | [Reconstruct Itinerary][p332]                                       | [Ruby][s332]  | Medium      |
 | 331 | [Verify Preorder Serialization of a Binary Tree][p331]              | [Ruby][s331]  | Medium      |
 | 330 | [Patching Array][p330]                                              | [Ruby][s330]  | Medium      |
@@ -103,30 +103,30 @@
 | 328 | [Odd Even Linked List][p328]                                        | [Ruby][s328]  | Easy        |
 | 327 | [Count of Range Sum][p327]                                          | [Ruby][s327]  | Hard        |
 | 326 | [Power of Three][p326]                                              | [Ruby][s326]  | Easy        |
-| 325 | [Maximum Size Subarray Sum Equals k][p325]                          |   :lock:      | Easy        |
+| 325 | [Maximum Size Subarray Sum Equals k][p325]                          |    :lock:     | Easy        |
 | 324 | [Wiggle Sort II][p324]                                              | [Ruby][s324]  | Medium      |
-| 323 | [Number of Connected Components in an Undirected Graph][p323]       |   :lock:      | Easy        |
+| 323 | [Number of Connected Components in an Undirected Graph][p323]       |    :lock:     | Easy        |
 | 322 | [Coin Change][p322]                                                 | [Ruby][s322]  | Medium      |
 | 321 | [Create Maximum Number][p321]                                       | [Ruby][s321]  | Hard        |
-| 320 | [Generalized Abbreviation][p320]                                    |   :lock:      | Medium      |
+| 320 | [Generalized Abbreviation][p320]                                    |    :lock:     | Medium      |
 | 319 | [Bulb Switcher][p319]                                               | [Ruby][s319]  | Medium      |
 | 318 | [Maximum Product of Word Lengths][p318]                             | [Ruby][s318]  | Medium      |
-| 317 | [Shortest Distance from All Buildings][p317]                        |   :lock:      | Hard        |
+| 317 | [Shortest Distance from All Buildings][p317]                        |    :lock:     | Hard        |
 | 316 | [Remove Duplicate Letters][p316]                                    | [Ruby][s316]  | Medium      |
 | 315 | [Count of Smaller Numbers After Self][p315]                         | [Ruby][s315]  | Hard        |
-| 314 | [Binary Tree Vertical Order Traversal][p314]                        |   :lock:      | Medium      |
+| 314 | [Binary Tree Vertical Order Traversal][p314]                        |    :lock:     | Medium      |
 | 313 | [Super Ugly Number][p313]                                           | [Ruby][s313]  | Medium      |
 | 312 | [Burst Balloons][p312]                                              | [Ruby][s312]  | Medium      |
-| 311 | [Sparse Matrix Multiplication ][p311]                               |   :lock:      | Medium      |
+| 311 | [Sparse Matrix Multiplication ][p311]                               |    :lock:     | Medium      |
 | 310 | [Minimum Height Trees][p310]                                        | [Ruby][s310]  | Medium      |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown][p309]               | [Ruby][s309]  | Medium      |
-| 308 | [Range Sum Query 2D - Mutable][p308]                                |   :lock:      | Hard        |
+| 308 | [Range Sum Query 2D - Mutable][p308]                                |    :lock:     | Hard        |
 | 307 | [Range Sum Query - Mutable][p307]                                   | [Ruby][s307]  | Medium      |
 | 306 | [Additive Number][p306]                                             | [Ruby][s306]  | Medium      |
-| 305 | [Number of Islands II][p305]                                        |   :lock:      | Hard        |
+| 305 | [Number of Islands II][p305]                                        |    :lock:     | Hard        |
 | 304 | [Range Sum Query 2D - Immutable][p304]                              | [Ruby][s304]  | Medium      |
 | 303 | [Range Sum Query - Immutable][p303]                                 | [Ruby][s303]  | Easy        |
-| 302 | [Smallest Rectangle Enclosing Black Pixels][p302]                   |   :lock:      | Medium      |
+| 302 | [Smallest Rectangle Enclosing Black Pixels][p302]                   |    :lock:     | Medium      |
 | 301 | [Remove Invalid Parentheses][p301]                                  | [Ruby][s301]  | Medium      |
 | 300 | [Longest Increasing Subsequence][p300]                              | [Ruby][s300]  | Medium      |
 | 299 | [Bulls and Cows][p299]                                              | [Ruby][s299]  | Easy        |
