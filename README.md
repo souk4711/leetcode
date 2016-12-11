@@ -3,6 +3,56 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 475 | [Heaters][p475]                                                     |               | Easy        |
+| 474 | [Ones and Zeroes][p474]                                             |               | Medium      |
+| 473 |                                                                     |               |             |
+| 472 |                                                                     |               |             |
+| 471 | [Encode String with Shortest Length][p471]                          |    :lock:     | Hard        |
+| 470 |                                                                     |               |             |
+| 469 | [Convex Polygon][p469]                                              |    :lock:     | Medium      |
+| 468 | [Validate IP Address][p468]                                         |               | Medium      |
+| 467 | [Unique Substrings in Wraparound String][p467]                      |               | Medium      |
+| 466 | [Count The Repetitions][p466]                                       |               | Hard        |
+| 465 | [Optimal Account Balancing][p465]                                   |    :lock:     | Hard        |
+| 464 | [Can I Win][p464]                                                   |               | Medium      |
+| 463 | [Island Perimeter][p463]                                            |               | Easy        |
+| 462 | [Minimum Moves to Equal Array Elements II][p462]                    |               | Medium      |
+| 461 |                                                                     |               |             |
+| 460 |                                                                     |               |             |
+| 459 | [Repeated Substring Pattern][p459]                                  |               | Easy        |
+| 458 |                                                                     |               |             |
+| 457 |                                                                     |               |             |
+| 456 | [132 Pattern][p456]                                                 |               | Medium      |
+| 455 | [Assign Cookies][p455]                                              |               | Easy        |
+| 454 | [4Sum II][p454]                                                     |               | Medium      |
+| 453 | [Minimum Moves to Equal Array Elements][p453]                       |               | Easy        |
+| 452 | [Minimum Number of Arrows to Burst Balloons][p452]                  |               | Medium      |
+| 451 |                                                                     |               |             |
+| 450 |                                                                     |               |             |
+| 449 |                                                                     |               |             |
+| 448 |                                                                     |               |             |
+| 447 | [Number of Boomerangs][p447]                                        |               | Easy        |
+| 446 | [Arithmetic Slices II - Subsequence][p446]                          |               | Hard        |
+| 445 |                                                                     |               |             |
+| 444 | [Sequence Reconstruction][p444]                                     |    :lock:     | Medium      |
+| 443 |                                                                     |               |             |
+| 442 |                                                                     |               |             |
+| 441 | [Arranging Coins][p441]                                             |               | Easy        |
+| 440 | [K-th Smallest in Lexicographical Order][p440]                      |               | Hard        |
+| 439 | [Ternary Expression Parser][p439]                                   |    :lock:     | Medium      |
+| 438 | [Find All Anagrams in a String][p438]                               |               | Easy        |
+| 437 | [Path Sum III][p437]                                                |               | Easy        |
+| 436 | [Find Right Interval][p436]                                         |               | Medium      |
+| 435 | [Non-overlapping Intervals][p435]                                   |               | Medium      |
+| 434 | [Number of Segments in a String][p434]                              |               | Easy        |
+| 433 |                                                                     |               |             |
+| 432 | [All O(1) Data Structure][p432]                                     |               | Hard        |
+| 431 |                                                                     |               |             |
+| 430 |                                                                     |               |             |
+| 429 |                                                                     |               |             |
+| 428 |                                                                     |               |             |
+| 427 |                                                                     |               |             |
+| 426 |                                                                     |               |             |
 | 425 | [Word Squares][p425]                                                |    :lock:     | Hard        |
 | 424 | [Longest Repeating Character Replacement][p424]                     |               | Medium      |
 | 423 | [Reconstruct Original Digits from English][p423]                    |               | Medium      |
@@ -432,6 +482,35 @@
 
 
 
+[p475]:https://leetcode.com/problems/heaters
+[p474]:https://leetcode.com/problems/ones-and-zeroes
+[p471]:https://leetcode.com/problems/encode-string-with-shortest-length
+[p469]:https://leetcode.com/problems/convex-polygon
+[p468]:https://leetcode.com/problems/validate-ip-address
+[p467]:https://leetcode.com/problems/unique-substrings-in-wraparound-string
+[p466]:https://leetcode.com/problems/count-the-repetitions
+[p465]:https://leetcode.com/problems/optimal-account-balancing
+[p464]:https://leetcode.com/problems/can-i-win
+[p463]:https://leetcode.com/problems/island-perimeter
+[p462]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii
+[p459]:https://leetcode.com/problems/repeated-substring-pattern
+[p456]:https://leetcode.com/problems/132-pattern
+[p455]:https://leetcode.com/problems/assign-cookies
+[p454]:https://leetcode.com/problems/4sum-ii
+[p453]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+[p452]:https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
+[p447]:https://leetcode.com/problems/number-of-boomerangs
+[p446]:https://leetcode.com/problems/arithmetic-slices-ii-subsequence
+[p444]:https://leetcode.com/problems/sequence-reconstruction
+[p441]:https://leetcode.com/problems/arranging-coins
+[p440]:https://leetcode.com/problems/k-th-smallest-in-lexicographical-order
+[p439]:https://leetcode.com/problems/ternary-expression-parser
+[p438]:https://leetcode.com/problems/find-all-anagrams-in-a-string
+[p437]:https://leetcode.com/problems/path-sum-iii
+[p436]:https://leetcode.com/problems/find-right-interval
+[p435]:https://leetcode.com/problems/non-overlapping-intervals
+[p434]:https://leetcode.com/problems/number-of-segments-in-a-string
+[p432]:https://leetcode.com/problems/all-oone-data-structure
 [p425]:https://leetcode.com/problems/word-squares
 [p424]:https://leetcode.com/problems/longest-repeating-character-replacement
 [p423]:https://leetcode.com/problems/reconstruct-original-digits-from-english
