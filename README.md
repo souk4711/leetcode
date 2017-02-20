@@ -3,10 +3,51 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 516 | [Longest Palindromic Subsequence][p516]                             |               | Medium      |
+| 515 | [Find Largest Value in Each Tree Row][p515]                         |               | Medium      |
+| 514 |                                                                     |               |             |
+| 513 | [Find Bottom Left Tree Value][p513]                                 |               | Medium      |
+| 512 |                                                                     |               |             |
+| 511 |                                                                     |               |             |
+| 510 |                                                                     |               |             |
+| 509 |                                                                     |               |             |
+| 508 | [Most Frequent Subtree Sum][p508]                                   |               | Medium      |
+| 507 |                                                                     |               |             |
+| 506 | [Relative Ranks][p506]                                              |               | Easy        |
+| 505 | [The Maze II][p505]                                                 |    :lock:     | Medium      |
+| 504 | [Base 7][p504]                                                      |               | Easy        |
+| 503 | [Next Greater Element II][p503]                                     |               | Medium      |
+| 502 | [IPO][p502]                                                         |               | Hard        |
+| 501 | [Find Mode in Binary Search Tree][p501]                             |               | Easy        |
+| 500 | [Keyboard Row][p500]                                                |               | Easy        |
+| 499 | [The Maze III][p499]                                                |               | Hard        |
+| 498 | [Diagonal Traverse][p498]                                           |               | Medium      |
+| 497 |                                                                     |               |             |
+| 496 | [Next Greater Element I][p496]                                      |               | Easy        |
+| 495 | [Teemo Attacking][p495]                                             |               | Medium      |
+| 494 | [Target Sum][p494]                                                  |               | Medium      |
+| 493 | [Reverse Pairs][p493]                                               |               | Hard        |
+| 492 | [Construct the Rectangle][p492]                                     |               | Easy        |
+| 491 | [Increasing Subsequences][p491]                                     |               | Medium      |
+| 490 | [The Maze][p490]                                                    |    :lock:     | Medium      |
+| 489 |                                                                     |               |             |
+| 488 | [Zuma Game][p488]                                                   |               | Hard        |
+| 487 | [Max Consecutive Ones II][p487]                                     |    :lock:     | Medium      |
+| 486 | [Predict the Winner][p486]                                          |               | Medium      |
+| 485 | [Max Consecutive Ones][p485]                                        |               | Easy        |
+| 484 | [Find Permutation][p484]                                            |    :lock:     | Medium      |
+| 483 | [Smallest Good Base][p483]                                          |               | Hard        |
+| 482 | [License Key Formatting][p482]                                      |               | Medium      |
+| 481 | [Magical String][p481]                                              |               | Medium      |
+| 480 | [Sliding Window Median][p480]                                       |               | Hard        |
+| 479 |                                                                     |               |             |
+| 478 |                                                                     |               |             |
+| 477 | [Total Hamming Distance][p477]                                      |               | Medium      |
+| 476 | [Number Complement][p476]                                           |               | Easy        |
 | 475 | [Heaters][p475]                                                     |               | Easy        |
 | 474 | [Ones and Zeroes][p474]                                             |               | Medium      |
-| 473 |                                                                     |               |             |
-| 472 |                                                                     |               |             |
+| 473 | [Matchsticks to Square][p473]                                       |               | Medium      |
+| 472 | [Concatenated Words][p472]                                          |               | Hard        |
 | 471 | [Encode String with Shortest Length][p471]                          |    :lock:     | Hard        |
 | 470 |                                                                     |               |             |
 | 469 | [Convex Polygon][p469]                                              |    :lock:     | Medium      |
@@ -17,8 +58,8 @@
 | 464 | [Can I Win][p464]                                                   |               | Medium      |
 | 463 | [Island Perimeter][p463]                                            |               | Easy        |
 | 462 | [Minimum Moves to Equal Array Elements II][p462]                    |               | Medium      |
-| 461 |                                                                     |               |             |
-| 460 |                                                                     |               |             |
+| 461 | [Hamming Distance][p461]                                            |               | Easy        |
+| 460 | [LFU Cache][p460]                                                   |               | Hard        |
 | 459 | [Repeated Substring Pattern][p459]                                  |               | Easy        |
 | 458 |                                                                     |               |             |
 | 457 |                                                                     |               |             |
@@ -27,16 +68,16 @@
 | 454 | [4Sum II][p454]                                                     |               | Medium      |
 | 453 | [Minimum Moves to Equal Array Elements][p453]                       |               | Easy        |
 | 452 | [Minimum Number of Arrows to Burst Balloons][p452]                  |               | Medium      |
-| 451 |                                                                     |               |             |
-| 450 |                                                                     |               |             |
-| 449 |                                                                     |               |             |
-| 448 |                                                                     |               |             |
+| 451 | [Sort Characters By Frequency][p451]                                |               | Medium      |
+| 450 | [Delete Node in a BST][p450]                                        |               | Medium      |
+| 449 | [Serialize and Deserialize BST][p449]                               |               | Medium      |
+| 448 | [Find All Numbers Disappeared in an Array][p448]                    |               | Easy        |
 | 447 | [Number of Boomerangs][p447]                                        |               | Easy        |
 | 446 | [Arithmetic Slices II - Subsequence][p446]                          |               | Hard        |
-| 445 |                                                                     |               |             |
+| 445 | [Add Two Numbers II][p445]                                          |               | Medium      |
 | 444 | [Sequence Reconstruction][p444]                                     |    :lock:     | Medium      |
 | 443 |                                                                     |               |             |
-| 442 |                                                                     |               |             |
+| 442 | [Find All Duplicates in an Array][p442]                             |               | Medium      |
 | 441 | [Arranging Coins][p441]                                             |               | Easy        |
 | 440 | [K-th Smallest in Lexicographical Order][p440]                      |               | Hard        |
 | 439 | [Ternary Expression Parser][p439]                                   |    :lock:     | Medium      |
@@ -482,6 +523,37 @@
 
 
 
+[p516]:https://leetcode.com/problems/longest-palindromic-subsequence
+[p515]:https://leetcode.com/problems/find-largest-value-in-each-tree-row
+[p513]:https://leetcode.com/problems/find-bottom-left-tree-value
+[p508]:https://leetcode.com/problems/most-frequent-subtree-sum
+[p506]:https://leetcode.com/problems/relative-ranks
+[p505]:https://leetcode.com/problems/the-maze-ii
+[p504]:https://leetcode.com/problems/base-7
+[p503]:https://leetcode.com/problems/next-greater-element-ii
+[p502]:https://leetcode.com/problems/ipo
+[p501]:https://leetcode.com/problems/find-mode-in-binary-search-tree
+[p500]:https://leetcode.com/problems/keyboard-row
+[p499]:https://leetcode.com/problems/the-maze-iii
+[p498]:https://leetcode.com/problems/diagonal-traverse
+[p496]:https://leetcode.com/problems/next-greater-element-i
+[p495]:https://leetcode.com/problems/teemo-attacking
+[p494]:https://leetcode.com/problems/target-sum
+[p493]:https://leetcode.com/problems/reverse-pairs
+[p492]:https://leetcode.com/problems/construct-the-rectangle
+[p491]:https://leetcode.com/problems/increasing-subsequences
+[p490]:https://leetcode.com/problems/the-maze
+[p488]:https://leetcode.com/problems/zuma-game
+[p487]:https://leetcode.com/problems/max-consecutive-ones-ii
+[p486]:https://leetcode.com/problems/predict-the-winner
+[p485]:https://leetcode.com/problems/max-consecutive-ones
+[p484]:https://leetcode.com/problems/find-permutation
+[p483]:https://leetcode.com/problems/smallest-good-base
+[p482]:https://leetcode.com/problems/license-key-formatting
+[p481]:https://leetcode.com/problems/magical-string
+[p480]:https://leetcode.com/problems/sliding-window-median
+[p477]:https://leetcode.com/problems/total-hamming-distance
+[p476]:https://leetcode.com/problems/number-complement
 [p475]:https://leetcode.com/problems/heaters
 [p474]:https://leetcode.com/problems/ones-and-zeroes
 [p471]:https://leetcode.com/problems/encode-string-with-shortest-length
@@ -499,9 +571,15 @@
 [p454]:https://leetcode.com/problems/4sum-ii
 [p453]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements
 [p452]:https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
+[p451]:https://leetcode.com/problems/sort-characters-by-frequency
+[p450]:https://leetcode.com/problems/delete-node-in-a-bst
+[p449]:https://leetcode.com/problems/serialize-and-deserialize-bst
+[p448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
 [p447]:https://leetcode.com/problems/number-of-boomerangs
 [p446]:https://leetcode.com/problems/arithmetic-slices-ii-subsequence
+[p445]:https://leetcode.com/problems/add-two-numbers-ii
 [p444]:https://leetcode.com/problems/sequence-reconstruction
+[p442]:https://leetcode.com/problems/find-all-duplicates-in-an-array
 [p441]:https://leetcode.com/problems/arranging-coins
 [p440]:https://leetcode.com/problems/k-th-smallest-in-lexicographical-order
 [p439]:https://leetcode.com/problems/ternary-expression-parser
