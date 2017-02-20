@@ -64,7 +64,7 @@
 | 458 |                                                                     |               |             |
 | 457 |                                                                     |               |             |
 | 456 | [132 Pattern][p456]                                                 |               | Medium      |
-| 455 | [Assign Cookies][p455]                                              |               | Easy        |
+| 455 | [Assign Cookies][p455]                                              | [Ruby][s455]  | Easy        |
 | 454 | [4Sum II][p454]                                                     |               | Medium      |
 | 453 | [Minimum Moves to Equal Array Elements][p453]                       |               | Easy        |
 | 452 | [Minimum Number of Arrows to Burst Balloons][p452]                  |               | Medium      |
@@ -1015,6 +1015,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s455]:./algorithms/assign_cookies.rb
 [s412]:./algorithms/fizz_buzz.rb
 [s394]:./algorithms/decode_string.rb
 [s393]:./algorithms/utf_8_validation.rb
