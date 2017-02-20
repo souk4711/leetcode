@@ -71,7 +71,7 @@
 | 451 | [Sort Characters By Frequency][p451]                                | [Ruby][s451]  | Medium      |
 | 450 | [Delete Node in a BST][p450]                                        |               | Medium      |
 | 449 | [Serialize and Deserialize BST][p449]                               | [Ruby][s449]  | Medium      |
-| 448 | [Find All Numbers Disappeared in an Array][p448]                    |               | Easy        |
+| 448 | [Find All Numbers Disappeared in an Array][p448]                    | [Ruby][s448]  | Easy        |
 | 447 | [Number of Boomerangs][p447]                                        |               | Easy        |
 | 446 | [Arithmetic Slices II - Subsequence][p446]                          |               | Hard        |
 | 445 | [Add Two Numbers II][p445]                                          |               | Medium      |
@@ -1019,6 +1019,7 @@
 [s453]:./algorithms/minimum_moves_to_equal_array_elements.rb
 [s451]:./algorithms/sort_characters_by_frequency.rb
 [s449]:./algorithms/serialize_and_deserialize_bst.rb
+[s448]:./algorithms/find_all_numbers_disappeared_in_an_array.rb
 [s412]:./algorithms/fizz_buzz.rb
 [s394]:./algorithms/decode_string.rb
 [s393]:./algorithms/utf_8_validation.rb
