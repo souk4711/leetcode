@@ -556,6 +556,8 @@
 [p476]:https://leetcode.com/problems/number-complement
 [p475]:https://leetcode.com/problems/heaters
 [p474]:https://leetcode.com/problems/ones-and-zeroes
+[p473]:https://leetcode.com/problems/matchsticks-to-square
+[p472]:https://leetcode.com/problems/concatenated-words
 [p471]:https://leetcode.com/problems/encode-string-with-shortest-length
 [p469]:https://leetcode.com/problems/convex-polygon
 [p468]:https://leetcode.com/problems/validate-ip-address
@@ -565,6 +567,8 @@
 [p464]:https://leetcode.com/problems/can-i-win
 [p463]:https://leetcode.com/problems/island-perimeter
 [p462]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii
+[p461]:https://leetcode.com/problems/hamming-distance
+[p460]:https://leetcode.com/problems/lfu-cache
 [p459]:https://leetcode.com/problems/repeated-substring-pattern
 [p456]:https://leetcode.com/problems/132-pattern
 [p455]:https://leetcode.com/problems/assign-cookies
