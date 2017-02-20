@@ -51,7 +51,7 @@
 | 471 | [Encode String with Shortest Length][p471]                          |    :lock:     | Hard        |
 | 470 |                                                                     |               |             |
 | 469 | [Convex Polygon][p469]                                              |    :lock:     | Medium      |
-| 468 | [Validate IP Address][p468]                                         |               | Medium      |
+| 468 | [Validate IP Address][p468]                                         | [Ruby][s468]  | Medium      |
 | 467 | [Unique Substrings in Wraparound String][p467]                      |               | Medium      |
 | 466 | [Count The Repetitions][p466]                                       |               | Hard        |
 | 465 | [Optimal Account Balancing][p465]                                   |    :lock:     | Hard        |
@@ -1015,6 +1015,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s468]:./algorithms/validate_ip_address.rb
 [s455]:./algorithms/assign_cookies.rb
 [s453]:./algorithms/minimum_moves_to_equal_array_elements.rb
 [s451]:./algorithms/sort_characters_by_frequency.rb
