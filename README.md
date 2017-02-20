@@ -66,7 +66,7 @@
 | 456 | [132 Pattern][p456]                                                 |               | Medium      |
 | 455 | [Assign Cookies][p455]                                              | [Ruby][s455]  | Easy        |
 | 454 | [4Sum II][p454]                                                     |               | Medium      |
-| 453 | [Minimum Moves to Equal Array Elements][p453]                       |               | Easy        |
+| 453 | [Minimum Moves to Equal Array Elements][p453]                       | [Ruby][s453]  | Easy        |
 | 452 | [Minimum Number of Arrows to Burst Balloons][p452]                  |               | Medium      |
 | 451 | [Sort Characters By Frequency][p451]                                |               | Medium      |
 | 450 | [Delete Node in a BST][p450]                                        |               | Medium      |
@@ -1016,6 +1016,7 @@
 [p1]:https://leetcode.com/problems/two-sum/
 
 [s455]:./algorithms/assign_cookies.rb
+[s453]:./algorithms/minimum_moves_to_equal_array_elements.rb
 [s412]:./algorithms/fizz_buzz.rb
 [s394]:./algorithms/decode_string.rb
 [s393]:./algorithms/utf_8_validation.rb
