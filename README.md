@@ -29,7 +29,7 @@
 | 503 | [Next Greater Element II][p503]                                     |               | Medium      |
 | 502 | [IPO][p502]                                                         |               | Hard        |
 | 501 | [Find Mode in Binary Search Tree][p501]                             | [Ruby][s501]  | Easy        |
-| 500 | [Keyboard Row][p500]                                                |               | Easy        |
+| 500 | [Keyboard Row][p500]                                                | [Ruby][s500]  | Easy        |
 | 499 | [The Maze III][p499]                                                |               | Hard        |
 | 498 | [Diagonal Traverse][p498]                                           |               | Medium      |
 | 497 |                                                                     |               |             |
@@ -1037,6 +1037,7 @@
 [s506]:./algorithms/relative_ranks.rb
 [s504]:./algorithms/base_7.rb
 [s501]:./algorithms/find_mode_in_binary_search_tree.rb
+[s500]:./algorithms/keyboard_row.rb
 [s468]:./algorithms/validate_ip_address.rb
 [s455]:./algorithms/assign_cookies.rb
 [s453]:./algorithms/minimum_moves_to_equal_array_elements.rb
