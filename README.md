@@ -23,7 +23,7 @@
 | 509 |                                                                     |               |             |
 | 508 | [Most Frequent Subtree Sum][p508]                                   |               | Medium      |
 | 507 |                                                                     |               |             |
-| 506 | [Relative Ranks][p506]                                              |               | Easy        |
+| 506 | [Relative Ranks][p506]                                              | [Ruby][s506]  | Easy        |
 | 505 | [The Maze II][p505]                                                 |    :lock:     | Medium      |
 | 504 | [Base 7][p504]                                                      |               | Easy        |
 | 503 | [Next Greater Element II][p503]                                     |               | Medium      |
@@ -1034,6 +1034,7 @@
 [p1]:https://leetcode.com/problems/two-sum/
 
 [s520]:./algorithms/detect_capital.rb
+[s506]:./algorithms/relative_ranks.rb
 [s468]:./algorithms/validate_ip_address.rb
 [s455]:./algorithms/assign_cookies.rb
 [s453]:./algorithms/minimum_moves_to_equal_array_elements.rb
