@@ -123,7 +123,7 @@
 | 399 | [Evaluate Division][p399]                                           |               | Medium      |
 | 398 | [Random Pick Index][p398]                                           |    :soon:     | Medium      |
 | 397 | [Integer Replacement][p397]                                         |               | Medium      |
-| 396 | [Rotate Function][p396]                                             |               | Easy        |
+| 396 | [Rotate Function][p396]                                             | [Ruby][s396]  | Easy        |
 | 395 | [Longest Substring with At Least K Repeating Characters][p395]      |               | Medium      |
 | 394 | [Decode String][p394]                                               | [Ruby][s394]  | Medium      |
 | 393 | [UTF-8 Validation][p393]                                            | [Ruby][s393]  | Medium      |
@@ -1026,6 +1026,7 @@
 [s449]:./algorithms/serialize_and_deserialize_bst.rb
 [s448]:./algorithms/find_all_numbers_disappeared_in_an_array.rb
 [s412]:./algorithms/fizz_buzz.rb
+[s396]:./algorithms/rotate_function.rb
 [s394]:./algorithms/decode_string.rb
 [s393]:./algorithms/utf_8_validation.rb
 [s385]:./algorithms/mini_parser.rb
