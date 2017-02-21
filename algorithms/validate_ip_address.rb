@@ -58,12 +58,12 @@ RE_IPV6ADDRLIKE = %r{
 # @param {String} ip
 # @return {String}
 def valid_ip_address(ip)
-  return 'IPv4' if _valid_ipv4_address(ip)
-  return 'IPv6' if _valid_ipv6_address(ip)
+  return 'IPv4' if _valid_ipv4_address_(ip)
+  return 'IPv6' if _valid_ipv6_address_(ip)
   return 'Neither'
 end
 
-private def _valid_ipv4_address(ip)
+private def _valid_ipv4_address_(ip)
   m = RE_IPV4ADDRLIKE.match(ip)
   return false if m.nil?
 
@@ -73,6 +73,6 @@ private def _valid_ipv4_address(ip)
   end; true
 end
 
-private def _valid_ipv6_address(ip)
+private def _valid_ipv6_address_(ip)
   RE_IPV6ADDRLIKE.match(ip)
 end
