@@ -9,7 +9,7 @@
 | 523 |                                                                     |               |             |
 | 522 |                                                                     |               |             |
 | 521 |                                                                     |               |             |
-| 520 | [Detect Capital][p520]                                              |               | Easy        |
+| 520 | [Detect Capital][p520]                                              | [Ruby][s520]  | Easy        |
 | 519 |                                                                     |               |             |
 | 518 |                                                                     |               |             |
 | 517 | [Super Washing Machines][p517]                                      |               | Hard        |
@@ -1033,6 +1033,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s520]:./algorithms/detect_capital.rb
 [s468]:./algorithms/validate_ip_address.rb
 [s455]:./algorithms/assign_cookies.rb
 [s453]:./algorithms/minimum_moves_to_equal_array_elements.rb
