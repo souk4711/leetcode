@@ -25,7 +25,7 @@
 | 507 |                                                                     |               |             |
 | 506 | [Relative Ranks][p506]                                              | [Ruby][s506]  | Easy        |
 | 505 | [The Maze II][p505]                                                 |    :lock:     | Medium      |
-| 504 | [Base 7][p504]                                                      |               | Easy        |
+| 504 | [Base 7][p504]                                                      | [Ruby][s504]  | Easy        |
 | 503 | [Next Greater Element II][p503]                                     |               | Medium      |
 | 502 | [IPO][p502]                                                         |               | Hard        |
 | 501 | [Find Mode in Binary Search Tree][p501]                             |               | Easy        |
@@ -1035,6 +1035,7 @@
 
 [s520]:./algorithms/detect_capital.rb
 [s506]:./algorithms/relative_ranks.rb
+[s504]:./algorithms/base_7.rb
 [s468]:./algorithms/validate_ip_address.rb
 [s455]:./algorithms/assign_cookies.rb
 [s453]:./algorithms/minimum_moves_to_equal_array_elements.rb
