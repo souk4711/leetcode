@@ -3,6 +3,16 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 526 | [Beautiful Arrangement][p526]                                       |               | Medium      |
+| 525 | [Contiguous Array][p525]                                            |               | Medium      |
+| 524 |                                                                     |               |             |
+| 523 |                                                                     |               |             |
+| 522 |                                                                     |               |             |
+| 521 |                                                                     |               |             |
+| 520 | [Detect Capital][p520]                                              |               | Easy        |
+| 519 |                                                                     |               |             |
+| 518 |                                                                     |               |             |
+| 517 | [Super Washing Machines][p517]                                      |               | Hard        |
 | 516 | [Longest Palindromic Subsequence][p516]                             |               | Medium      |
 | 515 | [Find Largest Value in Each Tree Row][p515]                         |               | Medium      |
 | 514 |                                                                     |               |             |
@@ -523,6 +533,10 @@
 
 
 
+[p526]:https://leetcode.com/problems/beautiful-arrangement
+[p525]:https://leetcode.com/problems/contiguous-array
+[p520]:https://leetcode.com/problems/detect-capital
+[p517]:https://leetcode.com/problems/super-washing-machines
 [p516]:https://leetcode.com/problems/longest-palindromic-subsequence
 [p515]:https://leetcode.com/problems/find-largest-value-in-each-tree-row
 [p513]:https://leetcode.com/problems/find-bottom-left-tree-value
