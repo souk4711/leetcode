@@ -124,7 +124,7 @@
 | 408 | [Valid Word Abbreviation][p408]                                     |    :lock:     | Easy        |
 | 407 | [Trapping Rain Water II][p407]                                      |               | Hard        |
 | 406 | [Queue Reconstruction by Height][p406]                              |               | Medium      |
-| 405 | [Convert a Number to Hexadecimal][p405]                             |               | Easy        |
+| 405 | [Convert a Number to Hexadecimal][p405]                             | [Ruby][s405]  | Easy        |
 | 404 | [Sum of Left Leaves][p404]                                          | [Ruby][s404]  | Easy        |
 | 403 | [Frog Jump][p403]                                                   |               | Hard        |
 | 402 | [Remove K Digits][p402]                                             |               | Medium      |
@@ -1046,6 +1046,7 @@
 [s448]:./algorithms/find_all_numbers_disappeared_in_an_array.rb
 [s412]:./algorithms/fizz_buzz.rb
 [s409]:./algorithms/longest_palindrome.rb
+[s405]:./algorithms/convert_a_number_to_hexadecimal.rb
 [s404]:./algorithms/sum_of_left_leaves.rb
 [s396]:./algorithms/rotate_function.rb
 [s394]:./algorithms/decode_string.rb
