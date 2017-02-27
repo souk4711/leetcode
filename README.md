@@ -125,7 +125,7 @@
 | 407 | [Trapping Rain Water II][p407]                                      |               | Hard        |
 | 406 | [Queue Reconstruction by Height][p406]                              |               | Medium      |
 | 405 | [Convert a Number to Hexadecimal][p405]                             |               | Easy        |
-| 404 | [Sum of Left Leaves][p404]                                          |               | Easy        |
+| 404 | [Sum of Left Leaves][p404]                                          | [Ruby][s404]  | Easy        |
 | 403 | [Frog Jump][p403]                                                   |               | Hard        |
 | 402 | [Remove K Digits][p402]                                             |               | Medium      |
 | 401 | [Binary Watch][p401]                                                |               | Easy        |
@@ -1045,6 +1045,7 @@
 [s449]:./algorithms/serialize_and_deserialize_bst.rb
 [s448]:./algorithms/find_all_numbers_disappeared_in_an_array.rb
 [s412]:./algorithms/fizz_buzz.rb
+[s404]:./algorithms/sum_of_left_leaves.rb
 [s396]:./algorithms/rotate_function.rb
 [s394]:./algorithms/decode_string.rb
 [s393]:./algorithms/utf_8_validation.rb
