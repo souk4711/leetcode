@@ -162,7 +162,7 @@
 | 370 | [Range Addition][p370]                                              |    :lock:     | Medium      |
 | 369 | [Plus One Linked List][p369]                                        |    :lock:     | Medium      |
 | 368 | [Largest Divisible Subset][p368]                                    |               | Medium      |
-| 367 | [Valid Perfect Square][p367]                                        |               | Medium      |
+| 367 | [Valid Perfect Square][p367]                                        | [Ruby][s367]  | Easy        |
 | 366 | [Find Leaves of Binary Tree][p366]                                  |    :lock:     | Medium      |
 | 365 | [Water and Jug Problem][p365]                                       |               | Medium      |
 | 364 | [Nested List Weight Sum II][p364]                                   |    :lock:     | Medium      |
@@ -1050,6 +1050,7 @@
 [s393]:./algorithms/utf_8_validation.rb
 [s385]:./algorithms/mini_parser.rb
 [s383]:./algorithms/ransom_note.rb
+[s367]:./algorithms/valid_perfect_square.rb
 [s350]:./algorithms/intersection_of_two_arrays_ii.rb
 [s349]:./algorithms/intersection_of_two_arrays.rb
 [s347]:./algorithms/top_k_frequent_elements.rb
