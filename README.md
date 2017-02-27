@@ -158,7 +158,7 @@
 | 374 | [Guess Number Higher or Lower][p374]                                |               | Easy        |
 | 373 | [Find K Pairs with Smallest Sums][p373]                             |               | Medium      |
 | 372 | [Super Pow][p372]                                                   |               | Medium      |
-| 371 | [Sum of Two Integers][p371]                                         |               | Easy        |
+| 371 | [Sum of Two Integers][p371]                                         | [Ruby][s371]  | Easy        |
 | 370 | [Range Addition][p370]                                              |    :lock:     | Medium      |
 | 369 | [Plus One Linked List][p369]                                        |    :lock:     | Medium      |
 | 368 | [Largest Divisible Subset][p368]                                    |               | Medium      |
@@ -1050,6 +1050,7 @@
 [s393]:./algorithms/utf_8_validation.rb
 [s385]:./algorithms/mini_parser.rb
 [s383]:./algorithms/ransom_note.rb
+[s371]:./algorithms/sum_of_two_integers.rb
 [s367]:./algorithms/valid_perfect_square.rb
 [s350]:./algorithms/intersection_of_two_arrays_ii.rb
 [s349]:./algorithms/intersection_of_two_arrays.rb
