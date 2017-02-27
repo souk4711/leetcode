@@ -142,7 +142,7 @@
 | 390 | [Elimination Game][p390]                                            |               | Medium      |
 | 389 | [Find the Difference][p389]                                         |               | Easy        |
 | 388 | [Longest Absolute File Path][p388]                                  |               | Medium      |
-| 387 | [First Unique Character in a String][p387]                          |               | Easy        |
+| 387 | [First Unique Character in a String][p387]                          | [Ruby][s387]  | Easy        |
 | 386 | [Lexicographical Numbers][p386]                                     |    :soon:     | Medium      |
 | 385 | [Mini Parser][p385]                                                 | [Ruby][s385]  | Medium      |
 | 384 | [Shuffle an Array][p384]                                            |    :soon:     | Medium      |
@@ -155,7 +155,7 @@
 | 377 | [Combination Sum IV][p377]                                          |               | Medium      |
 | 376 | [Wiggle Subsequence][p376]                                          |               | Medium      |
 | 375 | [Guess Number Higher or Lower II][p375]                             |               | Medium      |
-| 374 | [Guess Number Higher or Lower][p374]                                |               | Easy        |
+| 374 | [Guess Number Higher or Lower][p374]                                |    :soon:     | Easy        |
 | 373 | [Find K Pairs with Smallest Sums][p373]                             |               | Medium      |
 | 372 | [Super Pow][p372]                                                   |               | Medium      |
 | 371 | [Sum of Two Integers][p371]                                         | [Ruby][s371]  | Easy        |
@@ -1048,6 +1048,7 @@
 [s396]:./algorithms/rotate_function.rb
 [s394]:./algorithms/decode_string.rb
 [s393]:./algorithms/utf_8_validation.rb
+[s387]:./algorithms/first_unique_character_in_a_string.rb
 [s385]:./algorithms/mini_parser.rb
 [s383]:./algorithms/ransom_note.rb
 [s371]:./algorithms/sum_of_two_integers.rb
