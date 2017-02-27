@@ -140,7 +140,7 @@
 | 392 | [Is Subsequence][p392]                                              |               | Medium      |
 | 391 | [Perfect Rectangle][p391]                                           |               | Hard        |
 | 390 | [Elimination Game][p390]                                            |               | Medium      |
-| 389 | [Find the Difference][p389]                                         |               | Easy        |
+| 389 | [Find the Difference][p389]                                         | [Ruby][s389]  | Easy        |
 | 388 | [Longest Absolute File Path][p388]                                  |               | Medium      |
 | 387 | [First Unique Character in a String][p387]                          | [Ruby][s387]  | Easy        |
 | 386 | [Lexicographical Numbers][p386]                                     |    :soon:     | Medium      |
@@ -1048,6 +1048,7 @@
 [s396]:./algorithms/rotate_function.rb
 [s394]:./algorithms/decode_string.rb
 [s393]:./algorithms/utf_8_validation.rb
+[s389]:./algorithms/find_the_difference.rb
 [s387]:./algorithms/first_unique_character_in_a_string.rb
 [s385]:./algorithms/mini_parser.rb
 [s383]:./algorithms/ransom_note.rb
