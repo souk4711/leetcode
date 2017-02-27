@@ -120,7 +120,7 @@
 | 412 | [Fizz Buzz][p412]                                                   | [Ruby][s412]  | Easy        |
 | 411 | [Minimum Unique Word Abbreviation][p411]                            |    :lock:     | Hard        |
 | 410 | [Split Array Largest Sum][p410]                                     |               | Hard        |
-| 409 | [Longest Palindrome][p409]                                          |               | Easy        |
+| 409 | [Longest Palindrome][p409]                                          | [Ruby][s409]  | Easy        |
 | 408 | [Valid Word Abbreviation][p408]                                     |    :lock:     | Easy        |
 | 407 | [Trapping Rain Water II][p407]                                      |               | Hard        |
 | 406 | [Queue Reconstruction by Height][p406]                              |               | Medium      |
@@ -1045,6 +1045,7 @@
 [s449]:./algorithms/serialize_and_deserialize_bst.rb
 [s448]:./algorithms/find_all_numbers_disappeared_in_an_array.rb
 [s412]:./algorithms/fizz_buzz.rb
+[s409]:./algorithms/longest_palindrome.rb
 [s404]:./algorithms/sum_of_left_leaves.rb
 [s396]:./algorithms/rotate_function.rb
 [s394]:./algorithms/decode_string.rb
