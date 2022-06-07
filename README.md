@@ -3,6 +3,7 @@
 
 |  #  | Title                                                               | Solution      | Difficulty  |
 |-----|---------------------------------------------------------------------|---------------|-------------|
+| 915 | [Partition Array into Disjoint Intervals][p915]                     | [Ruby][s915]  | Medium      |
 | 520 | [Detect Capital][p520]                                              | [Ruby][s520]  | Easy        |
 | 506 | [Relative Ranks][p506]                                              | [Ruby][s506]  | Easy        |
 | 504 | [Base 7][p504]                                                      | [Ruby][s504]  | Easy        |
@@ -312,6 +313,7 @@
 
 
 
+[p915]:https://leetcode.com/problems/partition-array-into-disjoint-intervals/
 [p526]:https://leetcode.com/problems/beautiful-arrangement
 [p525]:https://leetcode.com/problems/contiguous-array
 [p520]:https://leetcode.com/problems/detect-capital
@@ -812,6 +814,7 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
+[s915]:./algorithms/partition_array_into_disjoint_intervals.rb
 [s520]:./algorithms/detect_capital.rb
 [s506]:./algorithms/relative_ranks.rb
 [s504]:./algorithms/base_7.rb
